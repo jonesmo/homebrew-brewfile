@@ -10,7 +10,7 @@ cask "xquartz"
 cask "adoptopenjdk"
 cask "istat-menus"
 cask "iterm2"
-cask "google-chrome"
+#cask "google-chrome"
 
 # Command line apps to install via Homebrew
 brew "ack"
@@ -129,7 +129,7 @@ cask "pycharm"
 cask "quickbooks-online"
 cask "sketch"
 cask "skype"
-cask "slack"
+#cask "slack"
 cask "sourcetree"
 cask "spectacle"
 cask "transmit"
@@ -147,12 +147,12 @@ mas "EasyRes", id: 688211836
 mas "Fantastical 2", id: 975937182
 mas "feedly", id: 865500966
 mas "Harvest", id: 506189836
-mas "Keynote", id: 409183694
+#mas "Keynote", id: 409183694
 mas "Microsoft Remote Desktop", id: 715768417
 mas "Mindnode 6", id: 1289197285
-mas "Numbers", id: 409203825
+#mas "Numbers", id: 409203825
 mas "Omnigraffle 7", id: 1142578753
-mas "Pages", id: 409201541
+#mas "Pages", id: 409201541
 mas "Paste", id: 967805235
 mas "Patterns", id: 429449079
 mas "Screenflow", id: 1475796517
